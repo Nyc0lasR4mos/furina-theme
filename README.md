@@ -113,8 +113,30 @@ Depois, no perfil do PowerShell, adicione:
  Cores suaves e harmoniosas
 
  ### Paleta de Cores (Fantasy Blue)
+ | Color | Hex | Usage |
+| :--- | :---: | :--- |
+| White | `#D4F4FF` | Text |
+| Light Blue | `#B3E5FC` | Execution time |
+| Medium Blue | `#81D4FA` | Session / User |
+| Dark Blue | `#4FC3F7` | Path background |
+| Accent Blue | `#29B6F6` | Time / Git |
+| Cyan | `#03A9F4` | Highlights |
+| Graphite | `#37474F` | Status indicator |
+| Dark Graphite | `#263238` | Background |
 
  ### Esquema de Cores (Windows Terminal)
+| Color | Hex | Usage |
+| :--- | :---: | :--- |
+| Background | `#0A1523` | Main background |
+| Foreground | `#D4F4FF` | Default text |
+| Cursor | `#FFFFFF` | Cursor |
+| Selection | `#2E5575` | Text selection |
+| Red | `#4A7DA2` | Errors / Alerts |
+| Green | `#67B8D9` | Success |
+| Yellow | `#A4E7FF` | Warnings |
+| Blue | `#3F83B8` | Information |
+| Purple | `#6AB8FF` | Highlights |
+| Cyan | `#5FE4FF` | Links / URLs |
 
 ### Licença
 
