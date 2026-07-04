@@ -32,7 +32,7 @@ Queria algo que fosse mais "pessoal" sabe? Profissional, claro, mas com aquela v
 - **Nerd Fonts** - JetBrainsMono Nerd Font + FiraCode Nerd Font Mono
 - **Windows Terminal** - Background personalizado com esquema Fantasy Blue
 
-## 📦 Instalação
+## Instalação
 
 ### Pré-requisitos
 
@@ -129,4 +129,4 @@ Conceito Hydro/Fontaine do universo de Teyvat
 
 ### Nycolas Ramos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=7c1919)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=7c1919)](https://github.com/Nyc0lasR4mos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=ffffff)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/Nyc0lasR4mos)
