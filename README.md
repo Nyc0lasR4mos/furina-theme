@@ -96,9 +96,9 @@ Abra o windows-terminal/settings.json e adicione o esquema de cores Fantasy Blue
 }
 ```
 Depois, no perfil do PowerShell, adicione:
-
+```bash
 "colorScheme": "Fantasy Blue"
-
+```
 ### 6 Recarregar
 ```bash
 & $PROFILE
