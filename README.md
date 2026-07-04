@@ -70,7 +70,7 @@ C:\Users\SEU-USUARIO\.config\fastfetch\
 ### 5. Configurar o Windows Terminal
 
 Abra o windows-terminal/settings.json e adicione o esquema de cores Fantasy Blue na seção "schemes":
-
+```bash
 {
   "name": "Fantasy Blue",
   "background": "#0A1523",
@@ -94,15 +94,15 @@ Abra o windows-terminal/settings.json e adicione o esquema de cores Fantasy Blue
   "brightCyan": "#B5F5FF",
   "brightWhite": "#FFFFFF"
 }
-
+```
 Depois, no perfil do PowerShell, adicione:
 
 "colorScheme": "Fantasy Blue"
 
 ### 6 Recarregar
-
+```bash
 & $PROFILE
-
+```
 ### Funcionalidades
  Prompt com separadores powerline suaves
  Paleta de cores "Fantasy Blue" personalizada
